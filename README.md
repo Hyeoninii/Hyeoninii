@@ -2,10 +2,13 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeoninii)
 
-<!--백준-->
+<!--백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhyeon0314)](https://solved.ac/jhyeon0314/)
+-->
 
-![Programmers Badge](https://raw.githubusercontent.com/{Hyeoninii}/Programmers_Badge_Generator/main/result/result.svg)
+<!-- 프로그래머스 -->
+# 프로그래머스
+![Programmers Badge](https://raw.githubusercontent.com/Hyeoninii/Programmers_Badge_Generator/main/result/result.svg)
 
 
 <!--
